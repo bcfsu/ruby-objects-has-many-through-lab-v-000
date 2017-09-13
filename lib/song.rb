@@ -7,6 +7,4 @@ class Song
     @genre = genre
   end
 
-
-
 end
